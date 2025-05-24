@@ -15,3 +15,7 @@ livedoorブログからgithubへの移行作業はVFXレンダリング対応作
 質問・不具合報告・要望はdiscordまたはブログのコメントからお願いします。<br>
 discord:`tooleroflight`<br>
 blog:<a href="https://tooleroflight.blog.jp/">[https://tooleroflight.blog.jp/](https://tooleroflight.blog.jp/)</a>
+
+## Notice for Non-Japanese Client Users
+The layouts provided in this repository are designed specifically for the Japanese game client.
+If you are using a client in another language, please be aware that some triggers may not work correctly by default, and you will need to configure them manually.
