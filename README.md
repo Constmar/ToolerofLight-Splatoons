@@ -4,7 +4,7 @@
 
 ## OFUSE
 お布施募集しています。<br>
-特典はありませんので<br>
+特典はありません。<br>
 <a href="https://ofuse.me/tooleroflight">OFUSE</a>
 
 ## VFXレンダリング対応とgithub移行対応について
